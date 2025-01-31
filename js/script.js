@@ -1,0 +1,2 @@
+
+// alert ("Muka Dev"); CRIA UM ALERTA NO CARREGAMENTO DA PÁGINA 
